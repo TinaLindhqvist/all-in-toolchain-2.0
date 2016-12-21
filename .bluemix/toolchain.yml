@@ -28,9 +28,13 @@ saucelabs:
   service_id: saucelabs
   
 #Availability Monitoring
-apm:
+availabilitymonitoring:
   service_id: apm
 
 #OtherTool
-customtool:
+othertool:
   service_id: customtool
+
+#DevOps Insights
+dra:
+  service_id: draservicebroker
